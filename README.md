@@ -40,12 +40,18 @@ Having assessed all of the Administrative, Technical and Physical controls to sa
 <br> 
 
 <h2>Stakeholder Memorandum</h2>
-Based on the audit scope and goals, controls assessment and compliance checklist, I complete each section of the stakeholder memorandum template to communicate my audit results and recommendations to stakeholders:
+Based on the audit scope and goals, controls assessment and compliance checklist, I completed each section of the stakeholder memorandum template to communicate my audit results and recommendations to stakeholders:<br>
 - [Scope]
 - [Goals]
 - [Critical findings (must be addressed immediately)]
 - [Findings (should be addressed, but no immediate need)]
-- [Summary/Recommendations]
+- [Summary/Recommendations] 
 
+<br> 
+<p align="center">
+<img src="https://imgur.com/fmTXo9t.png" width="80%" alt="Stakeholder Memorandum 1"/>
+<img src="https://imgur.com/0UcDIfK.png" width="80%" alt="Stakeholder Memorandum 2"/>
+</p>
 
+<br>
 Overall, this internal IT audit experience has provided me with valuable insights into real-world cybersecurity challenges faced by businesses in today's digital landscape. My involvement in implementing the NIST CSF, conducting a risk assessment, and completing a controls assessment and compliance checklist has enhanced my skills as a cybersecurity professional. I am excited to leverage this experience in future cybersecurity endeavors and contribute to building secure and resilient IT infrastructures.
